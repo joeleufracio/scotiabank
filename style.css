@@ -1,6 +1,7 @@
 /* Custom Properties */
 
 html {
+  background: white;
   box-sizing: border-box;
   font-family: 'Raleway', sans-serif;
   color: var(--second-color);
