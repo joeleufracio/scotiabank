@@ -82,7 +82,7 @@ input[type=checkbox]:checked + label:before {
 }
 .fa-map-marker-alt, .fa-phone, .fa-envelope{
    color:gray;
-   font-size: 18px;
+   font-size: 21px;
    display: block;
    text-align: center;
    margin-bottom: 3px;
