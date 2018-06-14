@@ -3,7 +3,7 @@
   "short_name": "Scotiabank Perú",
   "description": "Bienvenid@s a Scotiabank",
   "background_color": "white",
-  "theme_color": "#343434",
+  "theme_color": "gray",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
